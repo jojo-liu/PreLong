@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/ecf6b4b2f64afee6427a1ef242050fe0bf0df001/output/jars/libs/nineoldandroids-library-2.4.0.jar"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/nineoldandroids-library-2.4.0-d8efb60413741a5b98a33e862739f87763670fa9.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/library-1.0.19-f8b9bc8b79d626bf35c22eabf1025f9b0c98c562.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/gson-2.8.0-71deffed287e4736823f7526ed501a44b871b37d.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/org.apache.http.legacy-2da3ef27069f79561a51b536f5c867e4947b70a7.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/ecf6b4b2f64afee6427a1ef242050fe0bf0df001/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7c241c57d117a42fbe5159eed04c7c5726544a30.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/e0af31bd3fbf92449821b0abc5983e3d1cb4c188/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-453991fb38cada9e293b7f32207ad72c85d566f3.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/37e02dda943d1ff70b826bef039bddbc0809693b/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d640822a4ef81d0c25410dc1b5f6a8ddc05ea1a1.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/apktool-lib-1.4.4-3-3d6b1e0f31d52bbcfaff490695d17602c833e3eb.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/libs/agora-rtc-sdk.jar"
+        revision="25.0.2"
+        sha1="ac11a805d5f0c757b6ef9b2d8b2eaaee09c40f67">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/agora-rtc-sdk-a9dfb23b5aae1577867a1d046764cef0b25584f0.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-4/cd422166cca6c3d930309a6685ea3f40c91942ce/logback-android-core-1.1.1-4.jar"
+        revision="25.0.2"
+        sha1="cd422166cca6c3d930309a6685ea3f40c91942ce">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/logback-android-core-1.1.1-4-6a45fda6898bd9205fc65b6cf2cf7290067f94f9.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/android-f7bca3670411a982bc1421d5f4155c9b1b1495ea.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.9/90a1d1effa99070aa6325918f05dd2bad1704b/parceler-api-1.1.9.jar"
+        revision="25.0.2"
+        sha1="0090a1d1effa99070aa6325918f05dd2bad1704b">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/parceler-api-1.1.9-44ae2509db3bc02c0bf489d6e5a24077744bce92.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/4f30d9fcb07970f75ddaa76060c7fc29ff4bca90/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d008e055fda17a422c75e680c4ee5a2ba6dbd57c.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/bd21f8b7a8f75fdbfb805a646a3707743ebeb40f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f1db63cfd23d5aff9a8aef56b973998d0b7f677a.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/ab3080e7c294452110d7544ad99075a5e9d7f15f/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-87d958868f46ba04930b3302a2820cd87108e389.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/d85b0c7d477d6e881d3b41d81a061550ac721783/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-2bdc0cf81a891cad2d10b2e5051af597ec960b74.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/2d5cbb2d2bae3ab8b7d75e609088cf3322b83098/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-1e8b70dbed3756fecbba0d4f853e2335026608e9.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/2ca1bdd535927d00c5cdde513d76c86cc0ed49c9/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-33df5b559006381a94646e22320d1043416f15e0.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/support-annotations-25.3.1-b4322db87b968c9396000787f46db8f62a2164ef.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/54720d6b6e7334e26f1d87a5e0c1d2cc35c8b78b/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-01bdda9e52c95d00ed589bc6465c8c31bdc34127.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/slf4j-api-1.7.21-8bedaea145a9554ace885b111323ca8e336929ef.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/209e6525adc66befd3f05da9ecbc8a82a6889afe/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-c447d3a1c4e6bbb3cdcaa8e02a9226e17baa04dd.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/universal-image-loader-1.9.5-bbda6f5d7fe88f5575f64919e646c00d41e49852.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/62b127234b120b58fe231eea1d5652480829d16e/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a98948b7f0fbbd598ef52bc8ae522c2d3abfc7d0.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/ef5c4aed441c79517698e29d367183a1b4746c94/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-4b347e69a370baffe057c54a0ac3da0cac600609.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.android/build-cache/d50fb3269461fc24ee42539a80394f15cf8a4ab0/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-9a7550e496d96ded3163c878038c3de48e9fade6.jar" />
+    </item>
+    <item
+        jar="/Users/liuqiangqiang/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-4/f20b1158fcca0aef6043886ef8605556a09058ca/logback-android-classic-1.1.1-4.jar"
+        revision="25.0.2"
+        sha1="f20b1158fcca0aef6043886ef8605556a09058ca">
+        <dex dex="/Users/liuqiangqiang/Downloads/Agora_Native_SDK_for_Android_FULL-5/samples/PreLong/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/logback-android-classic-1.1.1-4-ba7aa348b1ac6fc166caf6c703a4f3c6ce3fd98f.jar" />
+    </item>
+
+</items>
